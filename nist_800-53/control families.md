@@ -7,7 +7,7 @@ They are organized to help organizations select and implement the right security
 
 ## **An outline of the 20 control families, their relevance, and their intended audience:**
 
-**1. Access Control (AC):** Controls for limiting access to a system and its resources. This is relevant to protecting confidentiality and integrity.
+**1. Access Control (AC):** Controls for limiting access to a system and its resources. This is relevant to protecting confidentiality and integrity.  
 - Audience: Security administrators, IT staff, and system owners.  
 
 **2. Awareness and Training (AT):** Controls to ensure that users are trained on security and privacy policies and procedures. This is relevant to managing human-related risks.
