@@ -1,8 +1,6 @@
 # 20 Control Families and Their Relevance 🛡️  
 
-The NIST SP 800-53 control families are a foundational part of the framework, providing a structured way to address 
-various areas of cybersecurity risk. 
-They are organized to help organizations select and implement the right security and privacy controls for their systems.
+### The NIST SP 800-53 control families are a foundational part of the framework, providing a structured way to address various areas of cybersecurity risk. They are organized to help organizations select and implement the right security and privacy controls for their systems.
 
 
 ## **An outline of the 20 control families, their relevance, and their intended audience:**
