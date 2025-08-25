@@ -8,6 +8,9 @@
 * **How it works:** ACAS is a collection of commercial-off-the-shelf (COTS) software, primarily from Tenable, that includes components for vulnerability scanning (like Nessus), passive network monitoring, and log correlation. It's designed to be compliant with federal cybersecurity standards.
 * **Key takeaway:** ACAS is a specific, mandated solution for vulnerability and compliance management within the U.S. military and defense agencies.
 
+
+---
+
 ### 2. SCAP: Security Content Automation Protocol
 
 * **What it is:** SCAP is a suite of specifications maintained by the U.S. National Institute of Standards and Technology (NIST). It's not a tool itself, but a set of open standards that enable automated vulnerability management, security configuration measurement, and compliance evaluation.
